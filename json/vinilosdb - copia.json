@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "titulo": "Animals",
+    "artista": "Pink Floyd",
+    "precio": "3000",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/lobz3kQRE_tMyg8NKKebxN9UnXo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9431705-1480968179-9837.jpeg.jpg"
+  },
+  {
+    "id": "2",
+    "titulo": "Blonde on Blonde",
+    "artista": "Bob Dylan",
+    "precio": "4300",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/Q7M-_eHI7r1t_fDRAJr3z4f3hMc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7764632-1514500788-2286.jpeg.jpg"
+  },
+  {
+    "id": "3",
+    "titulo": "Diamond Dogs",
+    "artista": "David Bowie",
+    "precio": "2900",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/5YH-e2LXO7c5M_aJGMRUsT1w--U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797722-1558686292-8371.jpeg.jpg"
+  },
+  {
+    "id": "4",
+    "titulo": "Sticky Fingers",
+    "artista": "The Rolling Stones",
+    "precio": "3000",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/opltRShfrbknHcmXbOLcf0rU3WU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451342-1265844984.jpeg.jpg"
+  },
+  {
+    "id": "5",
+    "titulo": "The Wall",
+    "artista": "Pink Floyd",
+    "precio": "4500",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/1Bmfb9iMfaBPtpmTsBXcsXozGMI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8957729-1477237326-7283.jpeg.jpg"
+  },
+  {
+    "id": "6",
+    "titulo": "Houses of the Holy",
+    "artista": "Led Zeppelin",
+    "precio": "3300",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/4q2hN-plqPUc_YxWDcaGlTSP0DI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-455077-1588880788-2226.jpeg.jpg"
+  },
+  {
+    "id": "7",
+    "titulo": "Beat",
+    "artista": "King Crimson",
+    "precio": "4100",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/39uJxeJ0tq4s32S6f_E5FaDOuTo=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-2597319-1292383833.jpeg.jpg"
+  },
+  {
+    "id": "8",
+    "titulo": "Discipline",
+    "artista": "King Crimson",
+    "precio": "4300",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/xuGcPLnQ2go8QCkGQAyhNC4VBv4=/fit-in/595x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-2184450-1293293058.jpeg.jpg"
+  },
+  {
+    "id": "9",
+    "titulo": "Invisible",
+    "artista": "Invisible",
+    "precio": "2800",
+    "cat": "Nacional",
+    "img": "https://img.discogs.com/cZ2IzdZqJXRaOgMuIMS4A-FgTbs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2075876-1478822147-9792.jpeg.jpg"
+  },
+  {
+    "id": "10",
+    "titulo": "Foxtrot",
+    "artista": "Genesis",
+    "precio": "4000",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/9MH20OGflagoZm9TXdVv5KAeVps=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-715057-1215980330.jpeg.jpg"
+  },
+  {
+    "id": "11",
+    "titulo": "Melt",
+    "artista": "Peter Gabriel",
+    "precio": "4000",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/wear0nBSfS67QJezNJoTDf7vQ9Q=/fit-in/600x592/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-1080713-1356328126-9677.jpeg.jpg"
+  },
+  {
+    "id": "12",
+    "titulo": "Car",
+    "artista": "Peter Gabriel",
+    "precio": "4000",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/_BP5AR1dGWVOXwYSxFQFEGgghlc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5711783-1413987257-5502.jpeg.jpg"
+  },
+  {
+    "id": "13",
+    "titulo": "Highway 61 Revisited",
+    "artista": "Bob Dylan",
+    "precio": "3900",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/NA05ND3r_Zk3Uo7zhaQyVRWvQRs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6590004-1422648212-9623.jpeg.jpg"
+  },
+  {
+    "id": "14",
+    "titulo": "The Snow Goose",
+    "artista": "Camel",
+    "precio": "4400",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/bLITxB8ElZ7ccsuTvT-8ymGnohs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345009-1359356312-4295.jpeg.jpg"
+  },
+  {
+    "id": "15",
+    "titulo": "Ziggy Stardust",
+    "artista": "David Bowie",
+    "precio": "4250",
+    "cat": "Rock",
+    "img": "https://img.discogs.com/BDb-RySLgwbiKVywnpgzylrFYn4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618952-1443451473-7889.jpeg.jpg"
+  },
+  {
+    "id": "16",
+    "titulo": "Clics Modernos",
+    "artista": "Charly Garcia",
+    "precio": "2200",
+    "cat": "Nacional",
+    "img": "https://img.discogs.com/l074AqtYIf1Knh7YVThUes0_E-I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2667157-1479599899-5430.jpeg.jpg"
+  },
+  {
+    "id": "17",
+    "titulo": "El amor despues del amor",
+    "artista": "Fito Paez",
+    "precio": "3050",
+    "cat": "Nacional",
+    "img": "https://img.discogs.com/v1boDNXhjqZL9iCH6LvMssavSAE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2609205-1293005239.jpeg.jpg"
+  },
+  {
+    "id": "18",
+    "titulo": "Time Out",
+    "artista": "The Dave Brubeck Quartet",
+    "precio": "4150",
+    "cat": "Jazz",
+    "img": "https://img.discogs.com/JQby0Qp957uGfjkoylibUjXbPi0=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12384502-1564844513-1106.jpeg.jpg"
+  },
+  {
+    "id": "19",
+    "titulo": "Little Girl Blue",
+    "artista": "Nina Simone",
+    "precio": "4550",
+    "cat": "Jazz",
+    "img": "https://img.discogs.com/DwGKZI7BwlBXv1yaj8ndavCu4NU=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2097507-1585810663-4238.jpeg.jpg"
+  },
+  {
+    "id": "20",
+    "titulo": "Spectrum",
+    "artista": "Billy Cobham",
+    "precio": "4350",
+    "cat": "Jazz",
+    "img": "https://img.discogs.com/K7zwiAyv4OQ9yQj1V7vQW7F52Ac=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503967-1536896638-6953.jpeg.jpg"
+  },
+  {
+    "id": "21",
+    "titulo": "Lugano Concertos",
+    "artista": "Martha Argerich",
+    "precio": "8250",
+    "cat": "Clasica",
+    "img": "https://img.discogs.com/0l8qeTCoNjBo9G6cHTmm-zXkFuI=/fit-in/600x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4807546-1376151229-9694.jpeg.jpg"
+  },
+  {
+    "id": "22",
+    "titulo": "Beethoven: Pastorale",
+    "artista": "von Karajan",
+    "precio": "4250",
+    "cat": "Clasica",
+    "img": "https://img.discogs.com/woKjr7f5DBf2LBGyjdiODFKaNvQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6628878-1423567396-6199.jpeg.jpg"
+  },
+  {
+    "id": "23",
+    "titulo": "The Goldberg Variations",
+    "artista": "Glenn Gould",
+    "precio": "5250",
+    "cat": "Clasica",
+    "img": "https://img.discogs.com/dArIgn63mHPKl6025Pc6qzGlf2M=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6099235-1411049009-3019.jpeg.jpg"
+  },
+  {
+    "id": "24",
+    "titulo": "Star Wars",
+    "artista": "John Williams",
+    "precio": "3950",
+    "cat": "Soundtrack",
+    "img": "https://img.discogs.com/JesBRILlm1HFvVXI7YrirbYaS-M=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528627-1480293559-2883.jpeg.jpg"
+  },
+  {
+    "id": "25",
+    "titulo": "Pulp Fiction",
+    "artista": "Various",
+    "precio": "3250",
+    "cat": "Soundtrack",
+    "img": "https://img.discogs.com/-Z8kacVVhqhs1CWsuS6VYRkiawk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1347833-1219548144.jpeg.jpg"
+  }
+]
